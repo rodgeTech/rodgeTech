@@ -4,7 +4,7 @@ I'm a full stack developer with a burning 🔥 passion for all things tech and c
 
 🔭 I’m currently working on [Quikapply](https://quikapply.com/)
 
-🌱 I’m currently learning Serverless
+👉 Don't forget to checkout our local [coding club](https://belizecodingclub.org/). We look forward to meeting you!
 
 <!--
 **luisrodge/luisrodge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
