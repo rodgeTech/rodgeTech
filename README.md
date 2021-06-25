@@ -2,8 +2,6 @@
 
 I'm a full stack developer with a burning 🔥 passion for all things tech and coding.
 
-🔭 Off work, I usually work on [Quikapply](https://quikapply.com/)
-
 👉 Don't forget to checkout our local [coding club](https://belizecodingclub.org/). We look forward to meeting you!
 
 <!--
