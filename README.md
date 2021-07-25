@@ -2,7 +2,7 @@
 
 I'm a full stack developer with a burning 🔥 passion for all things tech and coding.
 
-👉 Don't forget to checkout our local [coding club](https://belizecodingclub.org/). We look forward to meeting you! If you're interested please feel free to join our [discord group](https://discord.gg/RWAc3kcZVq) 
+Also don't forget to checkout our local 🇧🇿 [coding club](https://belizecodingclub.org/). And if you're interested please feel free to join our [discord group](https://discord.gg/RWAc3kcZVq) - we look forward to meeting yo! 
 
 <!--
 **luisrodge/luisrodge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
