@@ -2,7 +2,7 @@
 
 I'm a full stack developer with a burning 🔥 passion for all things tech and coding.
 
-My favorite technologies right now are: React.js, Typescript, GraphQL, Node.js, and PostgreSQL. 
+My favorite technologies right now are: React.js, Typescript, GraphQL, Node.js, PostgreSQL, and AWS. 
 
 <!--
 **luisrodge/luisrodge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
